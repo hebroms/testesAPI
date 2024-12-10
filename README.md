@@ -5,9 +5,6 @@
 2. [Instalação e Configuração](#instalação-e-configuração)
 3. [Como Executar os Testes](#como-executar-os-testes)
 4. [Geração de Relatórios Allure](#geração-de-relatórios-allure)
-5. [Estrutura do Projeto](#estrutura-do-projeto)
-6. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-7. [Contribuição](#contribuição)
 
 ---
 
