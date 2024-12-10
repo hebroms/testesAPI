@@ -25,7 +25,7 @@ Certifique-se de ter os seguintes softwares instalados em sua máquina:
 Clone este repositório para sua máquina local:
 
 ```bash
-git clone https://gitlab.com/hebromsouza/automacaoapi.git 
+git clone https://github.com/hebroms/testesAPI.git
 ```
 
 ### Passo 2: Configurar o Ambiente
